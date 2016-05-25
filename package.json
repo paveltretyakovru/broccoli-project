@@ -1,0 +1,22 @@
+{
+  "name": "bb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.1.1",
+    "broccoli": "^0.16.9",
+    "broccoli-fast-browserify": "^0.2.11",
+    "install": "^0.8.1",
+    "npm": "^3.9.2",
+    "stringify": "^5.1.0"
+  },
+  "dependencies": {
+    "browserify": "^10.2.4"
+  }
+}
